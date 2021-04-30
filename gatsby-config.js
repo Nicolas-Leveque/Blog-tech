@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Le blog techno de Nico`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Nicolas Lévêque`,
+      summary: `Un développeur web basé dans le sud de la France`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Un blog basé sur les techs que j'étudie ou que j'utilise`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `chewback26`,
     },
   },
   plugins: [
