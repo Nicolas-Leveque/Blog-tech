@@ -1,7 +1,7 @@
 ---
 title: Un coup d'oeil à Reactjs
 date: "2021-04-30"
-description: "Un premier coup d'oeil à Reactjs et "
+description: "Un premier coup d'oeil à Reactjs "
 ---
 
 Dans le cadre de ma formation OpenClassrooms j'ai un dernier projet: coder un réseau social d'entreprise. Il s'agit  d'un projet full-stack avec le back end en nodejs avec une base de donnée en sql et le front end au choix. 
